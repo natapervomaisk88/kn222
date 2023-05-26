@@ -1,0 +1,63 @@
+[33mcommit 94f2925a806d70a5565070a77f5fa56578acf31b[m[33m ([m[1;36mHEAD -> [m[1;32modintsov[m[33m)[m
+Merge: 9749ac6 f6f6655
+Author: Andrey Odintsov <morrigun0@gmail.com>
+Date:   Fri May 26 14:04:23 2023 +0300
+
+    Merge branch 'natalya' of https://github.com/natapervomaisk88/kn222 into odintsov
+
+[33mcommit 9749ac69e9cf7f0dcbdccfc1d004ae76c4e5efe7[m[33m ([m[1;31morigin/odintsov[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m, [m[1;32mmain[m[33m)[m
+Merge: 9ab490d 8be63b6
+Author: Victor <129400024+jakelord1@users.noreply.github.com>
+Date:   Fri May 26 13:54:56 2023 +0300
+
+    Merge pull request #1 from natapervomaisk88/Pron
+    
+    new file
+
+[33mcommit 8be63b6584bbe2143a0e7f75f2706657e8447b3c[m[33m ([m[1;31morigin/Pron[m[33m)[m
+Author: jakelord1 <jakelord1.vo@gmail.com>
+Date:   Fri May 26 13:52:24 2023 +0300
+
+    new file
+
+[33mcommit f6f66559c91a2fbc2d105d39c1806f549242c1f7[m[33m ([m[1;31morigin/natalya[m[33m)[m
+Author: Natalya Babenko <natapervomaisk88@gmail.com>
+Date:   Fri May 26 13:49:50 2023 +0300
+
+    added new dir
+
+[33mcommit 9ab490d9d878fd3be255d091fdb9312b19b1b36b[m
+Author: stigmatta <134505496+stigmatta@users.noreply.github.com>
+Date:   Fri May 26 13:39:03 2023 +0300
+
+    Update products.txt
+
+[33mcommit 1a91785fb5944fa275c14accc1b98f0dc441d671[m
+Author: Natalya Babenko <natapervomaisk88@gmail.com>
+Date:   Fri May 26 13:16:04 2023 +0300
+
+    added an orange
+
+[33mcommit 83f3a03997b1deef2aba6170aca5784df12a1b81[m
+Author: Natalya Babenko <40598048+natapervomaisk88@users.noreply.github.com>
+Date:   Fri May 26 13:00:11 2023 +0300
+
+    Update products.txt
+
+[33mcommit ddcd6b0c248aad2367c21bbe5ec873a29975f8b8[m
+Author: Natalya Babenko <natapervomaisk88@gmail.com>
+Date:   Fri May 26 12:32:11 2023 +0300
+
+    changed text
+
+[33mcommit 760d4fc4fba0fc89488599e290b6b46cbc2c8995[m
+Author: Natalya Babenko <natapervomaisk88@gmail.com>
+Date:   Fri May 26 12:29:51 2023 +0300
+
+    added new product
+
+[33mcommit 486fcd6cf7e241cbd780f5832048e28cf35b1b81[m
+Author: Natalya Babenko <natapervomaisk88@gmail.com>
+Date:   Fri May 26 12:19:51 2023 +0300
+
+    first commit
